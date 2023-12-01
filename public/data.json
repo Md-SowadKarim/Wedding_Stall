@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "category_name": " Ultra Wedding Planning",
+    "price": 19.99,
+    "description": "Embark on the journey of planning your dream wedding with our comprehensive toolkit designed for new couples. This all-in-one package includes wedding planning guides, customizable templates, and expert advice to help you create the perfect wedding day. Whether you envision a romantic beach wedding, a grand ballroom celebration, or an intimate garden ceremony, our toolkit equips you with the tools and knowledge to bring your vision to life. From crafting your wedding vision to selecting the finest details, we're here to make your special day unforgettable.",
+    "image": "https://i.ibb.co/bF6VQvk/ek.jpg"
+  },
+  {
+    "id": 2,
+    "category_name": "Dreame Wedding Planning",
+    "price": 24.99,
+    "description": "Discover an exquisite collection of elegant wedding gowns tailored for new couples, ensuring you both look your best on your special day. Our gowns combine style and comfort, allowing you to celebrate your love story in fashion. From traditional lace designs to modern minimalist silhouettes, find the perfect attire to express your unique style. Each gown is meticulously crafted to enhance your natural beauty and make you feel like a queen on your wedding day. Choose elegance, choose love, choose our elegant wedding gowns.",
+    "image": "https://i.ibb.co/8bKDNYp/dui.jpg"
+  },
+  {
+    "id": 3,
+    "category_name": "Maxis Wedding Planning",
+    "price": 29.99,
+    "description": "Create unforgettable moments together with our full-service wedding planning package designed exclusively for new couples. Our dedicated team of experienced planners will guide you through every step, ensuring your wedding day is as unique as your love story. From venue selection to floral arrangements, we handle every detail, making your dream wedding a reality. Imagine a stress-free planning experience where you can focus on cherishing your love while we take care of the logistics. Let us turn your dreams into a seamless, enchanting reality with our full-service wedding planning.",
+    "image": "https://i.postimg.cc/BvQjvKkH/tin.jpg"
+  },
+  {
+    "id": 4,
+    "category_name": "Super Wedding Planning",
+    "price": 14.99,
+    "description": "Find the perfect attire that reflects your love story with our His and Hers wedding attire set. This collection includes stylish outfits for both of you, allowing you to celebrate your special day in coordinated elegance. From classic tuxedos and timeless ball gowns to contemporary suits and chic bridal dresses, we offer a wide range of options to match your unique style. Make memories that will last a lifetime with matching attire that symbolizes your love and unity on this joyous occasion.",
+    "image": "https://i.postimg.cc/zB7pgKGN/char.jpg"
+  },
+  {
+    "id": 5,
+    "category_name": "Mini Wedding Planning",
+    "price": 39.99,
+    "description": "Capture every cherished moment of your special day with our professional wedding photography and videography package tailored for new couples. Our team of skilled photographers and videographers will preserve the beauty and love of your wedding day forever. We believe that every love story is unique, and we are dedicated to capturing the essence of your relationship in every shot. From candid moments that reflect your personalities to artistic shots that showcase the beauty of your venue, we ensure your memories are captured with perfection.",
+    "image": "https://i.postimg.cc/VvTqqRyx/pach.jpg"
+  },
+  {
+    "id": 6,
+    "category_name": "Bridal & Eccessories Planning",
+    "price": 19.99,
+    "description": "Turn your wedding dreams into reality with our custom wedding decorations designed exclusively for new couples. We offer a wide range of personalized decor options, from exquisite centerpieces that reflect your theme to elegant signage that adds a personal touch to your celebration. Our team of experienced designers works closely with you to understand your vision and bring it to life. Whether you're planning an opulent ballroom affair or an intimate garden gathering, our custom decorations will transform your wedding day into a magical experience that you and your guests will treasure forever.",
+    "image": "https://i.postimg.cc/85XMGHC7/choi.jpg"
+  }
+]
